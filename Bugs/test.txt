@@ -1,0 +1,45 @@
+# Combo Flex
+Line    : blog.clova.line.me 104.21.71.112
+Shoope  : zendesk2.shoppe.ph
+          zendesk4.shoppe.sg
+Grab    : zendesk1.grab.com
+          zendesk4.grabtaxi.com
+
+# Akrab
+lms.uin-antasari.ac.id (172.64.201.17)
+blogs.microsoft.com (141.193.213.20)
+cdn.onlymega.com (172.67.73.39)
+api.midtrans.com (104.17.3.81)
+zoomappdocs.zoom.us (104.18.31.9)
+
+# Edukasi
+Vmess + Trojan Go    : cdn.udemy.com
+                       bimbel.ruangguru.com
+SSH Websocket        : cdn.udemy.com
+                       bimbel.ruangguru.com
+SSH Websocket + SSL  : cdn.udemy.com
+                       bimbel.ruangguru.com
+Lainya:
+Udemy.com:80 NTLS
+104.16.65.85
+104.16.66.85
+Midtrans.com:80 NTLS
+104.17.2.81
+104.17.3.81
+Ruangguru.com:443 TLS
+104.18.2.2
+104.18.3.2
+Tawk.to:80 NTLS
+104.22.24.131
+104.22.24.131
+172.67.38.66
+Cdn.jsdelivr.net:80 NTLS
+104.16.85.20
+104.16.86.20
+104.16.87.20
+104.16.88.20
+104.16.89.20
+Yourupload.com : 80 NTLS
+104.26.4.192
+104.26.5.192
+172.67.73.5
